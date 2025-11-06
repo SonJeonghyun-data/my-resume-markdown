@@ -1,4 +1,4 @@
-# 손 정 현 
+# 손 정 현 <sub> JeongHyun Son </sub>
 ### 인적사항 
 - **_전공_** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Major](https://api.iconify.design/material-symbols:computer-outline-rounded.svg?color=white) `소프트웨어학과`
 - **_연락처_** &nbsp;&nbsp;&nbsp; ![Number](https://api.iconify.design/ic:round-phone.svg?color=white) `010-9396-4720`
@@ -12,4 +12,14 @@
 - **_2025.09_** &nbsp; `SQL 개발자(SQLD)`
 ---
 ### 기술 스택
-[![Python](https://img.shields.io/badge/Python-0D47A1?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) &nbsp;&nbsp; [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Python](https://img.shields.io/badge/Python-0D47A1?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) &nbsp;&nbsp; [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) 
+
+---
+### 프로젝트
+- **_2024.11_** ~ **_2024.12_** &nbsp;&nbsp; `서울/경기 지역 병원의 의사 밀집도와 주변 약국 수의 상관관계 및 지리적 특성 분석(Python)`
+
+    - 실제 각 병원과 약국의 위도, 경도를 활용 / 각 병원 500m 이내 약국 수 조사 (pandas, numpy, haversine 공식)
+    - 실제 지도 위에 병원과 약국 분포를 시각화(클러스터링)하여 분석에 활용 (folium, webbrowser)
+    - 결과 시각화 (seaborn, matplotlib)
+ 
+-  **_2024.09_** ~ **_2024.11_** &nbsp;&nbsp; 
