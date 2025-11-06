@@ -22,4 +22,9 @@
     - 실제 지도 위에 병원과 약국 분포를 시각화(클러스터링)하여 분석에 활용 (folium, webbrowser)
     - 결과 시각화 (seaborn, matplotlib)
  
--  **_2024.09_** ~ **_2024.11_** &nbsp;&nbsp; 
+-  **_2024.09_** ~ **_2024.11_** &nbsp;&nbsp; `VirtualBox 기반 Ubuntu 환경에서의 시스템 프로그래밍 구현`
+
+    - VirtualBox를 활용한 Ubuntu 환경 구축 및 ssh 접속
+    - 저수준 파일 입출력을 사용한 파일 처리 명령어 mycat, mycp 구현 (추가 옵션 처리 및 예외 처리 포함)
+    - 내부 명령어 및 프로세스 제어 기반 외부 명령어 실행, pipe·redirection·background를 지원하는 mysh 구현
+    - 인텔 32-bit 아키텍처 기반 어셈블리 언어로 계산기 프로그램 구현
