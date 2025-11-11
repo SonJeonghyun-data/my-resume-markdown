@@ -28,6 +28,13 @@
     - 저수준 파일 입출력을 사용한 파일 처리 명령어 mycat, mycp 구현 (추가 옵션 처리 및 예외 처리 포함)
     - 내부 명령어 및 프로세스 제어 기반 외부 명령어 실행, pipe·redirection·background를 지원하는 mysh 구현
     - 인텔 32-bit 아키텍처 기반 어셈블리 언어로 계산기 프로그램 구현
+
+### 코드 링크
+| 프로젝트 | 관련 기술 스택 | 코드 링크 |
+|:---|:---|:---|
+| 의료 데이터(의사/약국) 분석 | [![Python](https://img.shields.io/badge/Python-0D47A1?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) | 링크 |
+| 시스템 프로그래밍 구현 | [![VirtualBox](https://img.shields.io/badge/VirtualBox-1872A4?style=for-the-badge&logo=virtualbox&logoColor=white)](https://www.virtualbox.org/) &nbsp;&nbsp; [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/) | 링크 |
+
 ---
 ### 자기소개
 - **_데이터 분석가_** <br>
