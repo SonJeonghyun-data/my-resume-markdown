@@ -1,14 +1,14 @@
-<p align="center"> <img src="Profile_Image.PNG" width="230px" height="230px" title="Profile Image (here)" alt="Profile Image"></img> </p> 
+<p align="center"> <img src="Profile-Image.PNG" width="230px" height="230px" title="Profile Image (here)" alt="Profile Image"></img> </p> 
 
 # 손 정 현 <sub> JeongHyun Son </sub>
 ### 인적사항 
-- **_전공_** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Major](https://api.iconify.design/material-symbols:computer-outline-rounded.svg?color=white) `소프트웨어학과`
-- **_연락처_** &nbsp;&nbsp;&nbsp; ![Number](https://api.iconify.design/ic:round-phone.svg?color=white) `010-9396-4720`
-- **_E-mail_** &nbsp;&nbsp;&nbsp; ![E-mail](https://api.iconify.design/material-symbols:mail-outline.svg?color=white) thswjdgus456@dankook.ac.kr
-- **_GitHub_** &nbsp;&nbsp; ![GitHub](https://api.iconify.design/mdi/github.svg?color=white) https://github.com/SonJeongHyun-data
+- **_전공_** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Major](https://api.iconify.design/material-symbols:computer-outline-rounded.svg?color=black) `소프트웨어학과`
+- **_연락처_** &nbsp;&nbsp;&nbsp; ![Number](https://api.iconify.design/ic:round-phone.svg?color=black) `010-9396-4720`
+- **_E-mail_** &nbsp;&nbsp;&nbsp; ![E-mail](https://api.iconify.design/material-symbols:mail-outline.svg?color=black) thswjdgus456@dankook.ac.kr
+- **_GitHub_** &nbsp;&nbsp; ![GitHub](https://api.iconify.design/mdi/github.svg?color=black) https://github.com/SonJeongHyun-data
 ---
 ### 학력사항
-- **_2021.03_** ~ **_2027.02_** &nbsp; ![Education](https://api.iconify.design/mdi:university-outline.svg?color=white) `단국대학교 SW융합대학 소프트웨어학과(졸업예정)`
+- **_2021.03_** ~ **_2027.02_** &nbsp; ![Education](https://api.iconify.design/mdi:university-outline.svg?color=black) `단국대학교 SW융합대학 소프트웨어학과(졸업예정)`
 ---
 ### 자격증
 - **_2025.09_** &nbsp; `SQL 개발자(SQLD)`
@@ -46,9 +46,9 @@
 ### 코드 링크
 | 프로젝트 | 관련 기술 스택 | 코드 링크 |
 |:---|:---|:---|
-| 인사정보 조회 프로그램 구현 | [![Python](https://img.shields.io/badge/Python-0D47A1?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) &nbsp;&nbsp; [![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge)](https://www.oracle.com/kr/) | ![GitHub](https://api.iconify.design/mdi/github.svg?color=white) [바로가기](https://github.com/SonJeonghyun/employee-info-query) |
- | 시스템 프로그래밍 구현 | [![VirtualBox](https://img.shields.io/badge/VirtualBox-1872A4?style=for-the-badge&logo=virtualbox&logoColor=white)](https://www.virtualbox.org/) &nbsp;&nbsp; [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/) | ![GitHub](https://api.iconify.design/mdi/github.svg?color=white) [바로가기](https://github.com/SonJeonghyun/system-programming) |
-| 의료 데이터(의사/약국) 분석 | [![Python](https://img.shields.io/badge/Python-0D47A1?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) | ![GitHub](https://api.iconify.design/mdi/github.svg?color=white) [바로가기](https://github.com/SonJeonghyun/medical-data-analysis) |
+| 인사정보 조회 프로그램 구현 | [![Python](https://img.shields.io/badge/Python-0D47A1?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) &nbsp;&nbsp; [![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge)](https://www.oracle.com/kr/) | ![GitHub](https://api.iconify.design/mdi/github.svg?color=black) [바로가기](https://github.com/SonJeonghyun/employee-info-query) |
+ | 시스템 프로그래밍 구현 | [![VirtualBox](https://img.shields.io/badge/VirtualBox-1872A4?style=for-the-badge&logo=virtualbox&logoColor=white)](https://www.virtualbox.org/) &nbsp;&nbsp; [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/) | ![GitHub](https://api.iconify.design/mdi/github.svg?color=black) [바로가기](https://github.com/SonJeonghyun/system-programming) |
+| 의료 데이터(의사/약국) 분석 | [![Python](https://img.shields.io/badge/Python-0D47A1?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) | ![GitHub](https://api.iconify.design/mdi/github.svg?color=black) [바로가기](https://github.com/SonJeonghyun/medical-data-analysis) |
 
 ---
 ### 자기소개
