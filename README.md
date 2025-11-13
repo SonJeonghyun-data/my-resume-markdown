@@ -46,9 +46,9 @@
 ### 코드 링크
 | 프로젝트 | 관련 기술 스택 | 코드 링크 |
 |:---|:---|:---|
-| 인사정보 조회 프로그램 구현 | [![Python](https://img.shields.io/badge/Python-0D47A1?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) &nbsp;&nbsp; [![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge)](https://www.oracle.com/kr/) | ![GitHub](https://api.iconify.design/mdi/github.svg?color=black) [바로가기](https://github.com/SonJeonghyun/employee-info-query) |
+| 인사정보 조회 프로그램 구현 | [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) &nbsp;&nbsp; [![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge)](https://www.oracle.com/kr/) | ![GitHub](https://api.iconify.design/mdi/github.svg?color=black) [바로가기](https://github.com/SonJeonghyun/employee-info-query) |
  | 시스템 프로그래밍 구현 | [![VirtualBox](https://img.shields.io/badge/VirtualBox-1872A4?style=for-the-badge&logo=virtualbox&logoColor=white)](https://www.virtualbox.org/) &nbsp;&nbsp; [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/) | ![GitHub](https://api.iconify.design/mdi/github.svg?color=black) [바로가기](https://github.com/SonJeonghyun/system-programming) |
-| 의료 데이터(의사/약국) 분석 | [![Python](https://img.shields.io/badge/Python-0D47A1?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) | ![GitHub](https://api.iconify.design/mdi/github.svg?color=black) [바로가기](https://github.com/SonJeonghyun/medical-data-analysis) |
+| 의료 데이터(의사/약국) 분석 | [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) | ![GitHub](https://api.iconify.design/mdi/github.svg?color=black) [바로가기](https://github.com/SonJeonghyun/medical-data-analysis) |
 
 ---
 ### 자기소개
